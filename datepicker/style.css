@@ -1,0 +1,120 @@
+.tblDateHeading
+{
+    font-weight: bolder;
+    font-size: 8pt;
+    color: white;
+    font-family: Verdana,Arial, Helvetica, sans-serif; /*BACKGROUND-COLOR: #6699cc*/
+    background-color: #8A142E;
+}
+
+.tblDate
+{
+    font-size: 8pt;
+    font-family: Verdana,Arial, Helvetica, sans-serif; /*BACKGROUND-COLOR: powderblue*/ /*         background-color: #ECA6A7;*/
+    padding: 10px 0px 0px 10px;
+}
+
+.CurrDate
+{
+    color: white; /*BACKGROUND-COLOR: #87ceeb;*/
+    background-color: maroon;
+}
+
+.tblDateCmds
+{
+    font-size: 8pt;
+    font-family: Verdana, Arial;
+    color: Black;
+}
+
+.CalHeading
+{
+    background-color: white;
+}
+
+.TextBoxMandatary
+{
+    font-size: 8pt;
+    text-align: left;
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    background-color: Silver;
+}
+.TextBox
+{
+    font-size: 8pt;
+    text-align: left;
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    width: 90pt;
+    height: 20;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+}
+.GridTextBox
+{
+    font-size: 8pt;
+    text-align: left;
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    width: 90px;
+    height: 20;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    border-left: 1px solid;
+    border-bottom: 1px solid;
+}
+.DivCalender
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: White;
+    width: 180px;
+    height: 220px;
+}
+.maintable
+{
+    border-width: 0px; /* border-style: solid;     border-color: blue;*/
+}
+.smalldiv
+{
+    font-size: 8pt;
+    font-family: Arial;
+    height: 15px;
+    width: 18px;
+    text-align: center;
+    font-weight: bold;
+}
+.smallPrvNextdiv
+{
+    font-size: 8pt;
+    font-family: Arial;
+    height: 15px;
+    width: 18px;
+    text-align: center;
+    font-weight: lighter;
+}
+div.smalldiv:hover
+{
+    border-width: 1px;
+    cursor: hand;
+    background-color: #D5DCEE;
+}
+div.smallPrvNextdiv:hover
+{
+    border-width: 1px;
+    cursor: hand;
+    background-color: #D5DCEE;
+}
+.dropdown
+{
+    width: 65px;
+    height: 20px;
+}
+.arrow
+{
+    height: 10px;
+    width: 10px;
+}
+
+
